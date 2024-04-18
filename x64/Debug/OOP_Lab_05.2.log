@@ -1,0 +1,9 @@
+﻿  Sourse.cpp
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(21,3): warning C4297: 'linearRoot2': function assumed not to throw an exception but does
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(21,3): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(26,62): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(33,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(40,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(49,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Roman\source\repos\OOP_Lab_05.2\Sourse.cpp(115,2): warning C4286: 'E': is caught by base class ('std::exception') on line 111
+  OOP_Lab_05.2.vcxproj -> C:\Users\Roman\source\repos\OOP_Lab_05.2\x64\Debug\OOP_Lab_05.2.exe
